@@ -1,0 +1,15 @@
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/bin/Debug/net6.0/NeucaFlightSystem
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/bin/Debug/net6.0/NeucaFlightSystem.deps.json
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/bin/Debug/net6.0/NeucaFlightSystem.runtimeconfig.json
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/bin/Debug/net6.0/NeucaFlightSystem.dll
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/bin/Debug/net6.0/NeucaFlightSystem.pdb
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/obj/Debug/net6.0/NeucaFlightSystem.csproj.AssemblyReference.cache
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/obj/Debug/net6.0/NeucaFlightSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/obj/Debug/net6.0/NeucaFlightSystem.AssemblyInfoInputs.cache
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/obj/Debug/net6.0/NeucaFlightSystem.AssemblyInfo.cs
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/obj/Debug/net6.0/NeucaFlightSystem.csproj.CoreCompileInputs.cache
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/obj/Debug/net6.0/NeucaFlightSystem.dll
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/obj/Debug/net6.0/refint/NeucaFlightSystem.dll
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/obj/Debug/net6.0/NeucaFlightSystem.pdb
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/obj/Debug/net6.0/NeucaFlightSystem.genruntimeconfig.cache
+/Users/damian/RiderProjects/NeucaFlightSystem/NeucaFlightSystem/obj/Debug/net6.0/ref/NeucaFlightSystem.dll
